@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aman9723
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Aman Singh Chauhan
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Full Stack Web Development
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me amansingh9723chauhan@gmail.com
 
 <!---
