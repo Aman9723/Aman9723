@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Aman Singh Chauhan
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me amansingh9723chauhan@gmail.com
+- 👋 Hi, I’m **Aman Singh Chauhan**
+- 👀 I’m interested in **Coding**
+- 🌱 I’m currently learning **Full Stack Web Development**
+- 💞️ I’m looking to collaborate on **Projects**
+- 📫 How to reach me **amansingh9723chauhan@gmail.com**
 
 <!---
 Aman9723/Aman9723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
