@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [aman9723.github.io](aman9723.github.io)
+- 👨‍💻 All of my projects are available at [https://aman9723.github.io](aman9723.github.io)
 
 - 💬 Ask me about **MERN | DSA**
 
