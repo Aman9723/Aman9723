@@ -53,9 +53,10 @@
 
 ## Github Stats:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman9723&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman9723&show_icons=true&theme=dark)
 
 [![Aman's Streak](https://streak-stats.demolab.com/?user=aman9723&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman9723&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
