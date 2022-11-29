@@ -54,7 +54,7 @@
 
 ## Github Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman9723&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman9723&layout=compact&theme=dark)]
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman9723&show_icons=true&theme=dark)
 
