@@ -18,7 +18,7 @@
 
 &nbsp;
 
-## Connect with me: 
+## 🤝 Connect with me: 
 
 <div align="left">
 <a href="https://github.com/aman9723" target="_blank">
@@ -34,7 +34,7 @@
 
 &nbsp;
 
-## Languages and tools:
+## 🔫 Languages and tools:
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/>)
@@ -52,7 +52,7 @@
 
 &nbsp;
 
-## Github Stats:
+## 📈 Github Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman9723&layout=compact&theme=onedark)
 
