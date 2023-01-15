@@ -56,10 +56,10 @@
 
 ## 📈 Github Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aman9723&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-tau-bice.vercel.app/api/top-langs?username=aman9723&layout=compact&theme=onedark)
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman9723&show_icons=true&theme=dracula)
+![Aman's GitHub stats](https://github-readme-stats-tau-bice.vercel.app/api?username=aman9723&show_icons=true&theme=onedark)
 
-![Aman's Streak](https://streak-stats.demolab.com/?user=aman9723&theme=dracula)
+![Aman's Streak](https://streak-stats.demolab.com/?user=aman9723&theme=onedark)
 
 
