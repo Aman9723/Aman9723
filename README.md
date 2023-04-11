@@ -56,7 +56,7 @@
 
 ## 📈 Github Stats:
 
-![Top Langs](https://github-readme-stats-tau-bice.vercel.app/api/top-langs?username=aman9723&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-tau-bice.vercel.app/api/top-langs?username=aman9723&layout=compact&theme=dracula&langs_count=10)
 
 ![Aman's GitHub stats](https://github-readme-stats-tau-bice.vercel.app/api?username=aman9723&show_icons=true&theme=dracula)
 
