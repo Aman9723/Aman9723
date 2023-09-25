@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **WEB3**
 
-- 💬 Ask me about **MERN | DSA**
+- 💬 Ask me about **MERN | DSA | BlockChain**
 
-- ⚡ Fun fact **There are 700+ programming languages**
+- ⚡ Fun fact **The first electronic computer weighed over 27 tons!**
 
 - 👨‍💻 All of my projects are available at <a href="https://aman9723.github.io/">Portfolio</a>
 
