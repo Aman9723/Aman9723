@@ -56,9 +56,9 @@
 
 ## 📈 Github Stats:
 
-![Top Langs](https://github-readme-stats-tau-bice.vercel.app/api/top-langs?username=aman9723&layout=compact&theme=dracula&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aman9723&layout=compact&theme=dracula&langs_count=10)
 
-![Aman's GitHub stats](https://github-readme-stats-tau-bice.vercel.app/api?username=aman9723&show_icons=true&theme=dracula)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman9723&show_icons=true&theme=dracula)
 
 ![Aman's Streak](https://streak-stats.demolab.com/?user=aman9723&theme=dracula)
 
